@@ -1,0 +1,6 @@
+
+processes:
+  - "curl"
+  - "wget"
+  - "ping"
+  - "python3"
