@@ -248,6 +248,6 @@ function SeverityBadge({ level }) {
             {level?.toUpperCase() || 'INFO'}
         </span>
     );
-}
+} SeverityBadge
 
 export default App;

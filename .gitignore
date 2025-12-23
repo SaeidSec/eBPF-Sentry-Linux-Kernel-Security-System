@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# eBPF-Sentry specific
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+ids_alerts.json
+ips_actions.log
+
+# Node modules metadata
+node_modules/.vite/
