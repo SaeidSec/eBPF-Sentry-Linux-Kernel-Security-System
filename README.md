@@ -117,5 +117,9 @@ processes:
 
 Unlicensed / Private Class Project.
 
+### Author
+- **SaeidSec** (AbuSaeid) - [mdsaeid598@gmail.com](mailto:mdsaeid598@gmail.com)
+
+
 ---
 ---
